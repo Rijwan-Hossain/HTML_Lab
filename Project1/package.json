@@ -1,0 +1,17 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "HTML & CSS project are done using ReactJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rijwan Hossain",
+  "license": "ISC",
+  "dependencies": {
+    "mdbreact": "^4.10.0",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
+    "reactstrap": "^7.1.0"
+  }
+}
